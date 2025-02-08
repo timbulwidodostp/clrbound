@@ -1,5 +1,31 @@
-d 'DEA': Data envelopment analysis
+d 'clrbound': Estimation and inference on intersection bounds Use clrbound And clr2bound And clr3bound And clrtest With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f clr.ado
+f clr2.ado
+f clr2b.ado
+f clr2bo.ado
+f clr2bou.ado
+f clr2boun.ado
+f clr2bound.ado
+f clr2bound.sthlp
+f clr3.ado
+f clr3b.ado
+f clr3bo.ado
+f clr3bou.ado
+f clr3boun.ado
+f clr3bound.ado
+f clr3bound.sthlp
+f clr_b.ado
+f clr_k.ado
+f clr_kb.ado
+f clr_p.ado
+f clr_pb.ado
+f clr_s.ado
+f clrb.ado
+f clrbo.ado
+f clrbou.ado
+f clrboun.ado
+f clrbound.ado
+f clrbound.sthlp
+f clrtest.ado
+f clrtest.sthlp
