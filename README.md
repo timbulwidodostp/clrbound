@@ -1,6 +1,8 @@
 # clrbound
 Estimation and inference on intersection bounds Use clrbound And clr2bound And clr3bound And clrtest With STATA 18
 
+https://www.youtube.com/watch?v=qLy3cSWENXU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
